@@ -1,0 +1,12 @@
+2017-12-19 16:05:38.048 EST [84852] LOG:  could not bind IPv6 address "::1": Address already in use
+2017-12-19 16:05:38.048 EST [84852] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2017-12-19 16:05:38.048 EST [84852] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2017-12-19 16:05:38.048 EST [84852] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2017-12-19 16:05:38.048 EST [84852] WARNING:  could not create listen socket for "localhost"
+2017-12-19 16:05:38.048 EST [84852] FATAL:  could not create any TCP/IP sockets
+2017-12-19 16:05:38.048 EST [84852] LOG:  database system is shut down
+2017-12-19 16:17:44.599 EST [86306] LOG:  listening on IPv6 address "::1", port 5432
+2017-12-19 16:17:44.599 EST [86306] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2017-12-19 16:17:44.600 EST [86306] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2017-12-19 16:17:44.610 EST [86307] LOG:  database system was shut down at 2017-12-19 16:17:36 EST
+2017-12-19 16:17:44.613 EST [86306] LOG:  database system is ready to accept connections
