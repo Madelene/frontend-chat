@@ -7,3 +7,5 @@ your own components by running `rails g component NAME`
 
 * Database is PostgreSQL
 
+* Shout-out to Evil Martians for teaching me how to build this!
+
