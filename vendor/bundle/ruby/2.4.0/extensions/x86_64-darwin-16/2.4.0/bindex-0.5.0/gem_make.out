@@ -1,0 +1,15 @@
+current directory: /Users/madelenecampos/Documents/Projects/personal/frontend-chat/vendor/bundle/ruby/2.4.0/gems/bindex-0.5.0/ext/bindex
+/usr/local/opt/ruby/bin/ruby -r ./siteconf20171229-38055-ca264p.rb extconf.rb
+creating Makefile
+
+current directory: /Users/madelenecampos/Documents/Projects/personal/frontend-chat/vendor/bundle/ruby/2.4.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /Users/madelenecampos/Documents/Projects/personal/frontend-chat/vendor/bundle/ruby/2.4.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.bundle
+
+current directory: /Users/madelenecampos/Documents/Projects/personal/frontend-chat/vendor/bundle/ruby/2.4.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20171229-38055-akm706/bindex
