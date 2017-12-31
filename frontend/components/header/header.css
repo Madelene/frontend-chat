@@ -1,0 +1,11 @@
+/* Can load this image this way, INSTEAD of in the _header.html.erb */
+
+/* .header {
+  &--cat {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 25px;
+    background-image: url("./static/logo.png");
+    background-size: 100%;
+  }
+} */
